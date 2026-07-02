@@ -8,13 +8,6 @@ Hi! I'm **Asharib Malik**, learning Python with a goal to become an **AI Enginee
 - Data Structures & Algorithms (coming soon!)
 - Machine Learning & AI (future goal)
 
-## Projects 💻
-| Project | Description |
-|---------|-------------|
-| Calculator | Basic arithmetic operations |
-| Student Report Card | Input/output practice |
-| Temperature Converter | Celsius to Fahrenheit/Kelvin |
-
 ## Connect With Me 🔗
 - LinkedIn: https://www.linkedin.com/in/asharib-malik
 
